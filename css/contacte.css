@@ -1,0 +1,16 @@
+main{
+    padding: 20px;
+}
+
+#xarxes{
+    float: right;
+
+}
+#xarxes a{
+    display: block;
+}
+
+h4{
+    font-size: x-large;
+    text-decoration: underline;
+}

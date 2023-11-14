@@ -1,0 +1,17 @@
+figure{
+    display: inline-block;
+    padding: 30px;
+}
+figcaption{
+    font-size: larger;
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+#video1{
+    background-color:cyan;
+}
+
+#video2{
+    background-color: cyan;
+}

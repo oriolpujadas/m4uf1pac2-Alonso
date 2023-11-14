@@ -1,0 +1,21 @@
+h3{
+    color:black;
+    text-align: center;
+    font-size: larger;
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+main table,td,th{
+    border: 2px solid black;
+    font-size: larger;
+}
+table{
+    caption-side: top;
+    background-color:cyan;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+

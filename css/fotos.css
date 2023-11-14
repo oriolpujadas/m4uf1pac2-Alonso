@@ -1,0 +1,41 @@
+h3{
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+
+h4{
+    text-align: center;
+}
+
+div{
+    border: 3px solid black;
+    background-color: red;
+}
+
+figure{
+    display: inline-block;
+    text-align: center;
+}
+
+figcaption{
+    color: white;
+    text-decoration: overline;
+}
+
+main{
+    background-image: url(/img/banderanav.jpg);
+    background-repeat: repeat;
+}
+
+#galeria1{
+    font-size: larger;
+    color: white;
+    text-decoration: underline;
+    padding: 10px;
+}
+#galeria2{
+    font-size: larger;
+    color: black;
+    text-decoration: underline;
+}

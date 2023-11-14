@@ -1,0 +1,26 @@
+main aside p{
+    margin: 1em;
+    background-color: lightseagreen;
+}
+
+.noticies{
+    background-color:black;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    width: 80%;
+    
+}
+
+.ultimPodi {
+    float: left;
+    margin-right: 20px;
+  }
+
+.noticies p{
+    font-size: larger;
+    width: 30%;
+    float: right;
+}
+
+/* Vull afegir una altre noticia amb un altre div pero flotant a la dreta. */
